@@ -1,6 +1,10 @@
 
-   **O que achei e como fiz os exercícios**
+ ###**Lógica - Variáveis, Tipos de Dados, Operadores e Condicional**###
 
-   Achei fácil a execução dos exercícios, apensar de ainda precisar aprender maiis sobre o Switch Case e com o let e const, mas estou pesquisando mais sobre isso.
-   Algumas coisas tive que procurar na internet como por expemplo como eu fazia pra colocar o ano atual na variável sem precisar mudar toda vez que mudasse de ano.
+  Para esse exercício usei muito os meus conhecimentos de lógica e sintaxe.
+  Usei na prática strings, numbers e booleans.
+  Usei operadores lógicos, de comparação e aritiméticos, al[em das condicionais If/Else e Switch Case.
+  Consegui entender e usar na prática as diferenças entre let/const/var.
+  Por fim uni strings concatenando ou interpolando elas.
+
 
